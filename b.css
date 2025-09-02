@@ -8,7 +8,7 @@ pre {
   font-optical-sizing: auto;
   font-size: 30px;
   margin: 30px;
-  text-shadow: 0px, 0px, 0px red;
+  text-shadow: 0px, 0px, 0px rgb(102, 0, 255);
 }
 h2 {
   color: #0dd71e;
@@ -17,11 +17,20 @@ h2 {
 h1 {
   margin: 60px;
   text-shadow: 0px 30px 5px black;
-  color: red;
 }
 img {
   text-align: center;
   margin-left: 300px;
   width: 1056px;
   height: 446px;
+}
+.kk {
+  margin-left: 20px;
+}
+h1 {
+  background: #099bef;
+  background-image: linear-gradient(red, blue, yellow);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
 }

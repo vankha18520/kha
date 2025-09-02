@@ -11,14 +11,3 @@ body {
     #c0c0aa
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
-h1,
-h2 {
-  font-size: 30px;
-}
-img {
-  height: 965px;
-  width: 965px;
-}
-.fa-newspaper {
-  margin-left: 20px;
-}
